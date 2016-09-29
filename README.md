@@ -34,7 +34,7 @@ http://www.census.gov/data/developers/data-sets/Health-Insurance-Statistics.html
 
 Use case example: Create a map that allows community-based healthcare providers and clinics better target their outreach to communities with the most need
 
-# Survey of Income and Program Participation (bulk download)
+# Survey of Income and Program Participation
 The Survey of Income and Program Participation (SIPP) is a source of data on the interaction between tax, transfer, and other government and private policies. SIPP collects information for assistance received either directly as money or indirectly as in-kind benefits and SIPP data provide the most extensive information available on how the nation's economic well-being changes over time.
 http://thedataweb.rm.census.gov/ftp/sipp_ftp.html
 
