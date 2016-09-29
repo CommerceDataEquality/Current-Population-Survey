@@ -4,7 +4,10 @@ Every ten years, as mandated by the Constitution, the U.S. Census counts every r
 Example use case: Build a tool that allows nonprofits to better target their services based on demographic characteristics of neighborhoods.
 
 # American-Community-Survey
-The American Community Survey (ACS) is an ongoing survey that provides vital information on a yearly basis about our nation and its people. Through the ACS, we know more about jobs and occupations, educational attainment, veterans, whether people own or rent their home, and other topics. 1 Year data (2011-2014): http://www.census.gov/data/developers/data-sets/acs-survey-1-year-data.html 3 year data: http://www.census.gov/data/developers/data-sets/acs-survey-3-year-data.html 5 Year data (2005-2009, 2010-201) http://www.census.gov/data/developers/data-sets/acs-survey-5-year-data.html
+The American Community Survey (ACS) is an ongoing survey that provides vital information on a yearly basis about our nation and its people. Through the ACS, we know more about jobs and occupations, educational attainment, veterans, whether people own or rent their home, and other topics. 
+1 Year data (2011-2014): http://www.census.gov/data/developers/data-sets/acs-survey-1-year-data.html 
+3 year data: http://www.census.gov/data/developers/data-sets/acs-survey-3-year-data.html 
+5 Year data (2005-2009, 2010-201) http://www.census.gov/data/developers/data-sets/acs-survey-5-year-data.html
 
 Example use case: Develop an analysis that mines ACS data to determine demographic characteristics and trends affecting veterans, and other groups, in efforts to better target services geographics and design programs to improve their wellbeing.
 
