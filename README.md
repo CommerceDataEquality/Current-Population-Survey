@@ -33,9 +33,11 @@ Use case example: Create a map that allows community-based healthcare providers 
 The Survey of Income and Program Participation (SIPP) is a source of data on the interaction between tax, transfer, and other government and private policies. SIPP collects information for assistance received either directly as money or indirectly as in-kind benefits and SIPP data provide the most extensive information available on how the nation's economic well-being changes over time.
 http://thedataweb.rm.census.gov/ftp/sipp_ftp.html
 
+Use case example: Analyze SIPP data to determine a strategy for the best areas to focus on reskilling mothers who have been out of the workforce for 10+ years
+
 # Decennial-Census
 Every ten years, as mandated by the Constitution, the U.S. Census counts every resident in the United States. The data collected by the decennial census determine the number of seats each state has in the U.S. House of Representatives and the USG uses these statistics to distribute billions in federal funds to states and communities. The Census API provides population data by sex, age, and race, as well as housing data by occupancy, vacancy status, and tenure, at all levels of geographic resolution. http://www.census.gov/data/developers/data-sets/decennial-census-data.html
 
 Example use case: Build a tool that allows nonprofits to better target their services based on demographic characteristics of neighborhoods.
 
-Use case example: Analyze SIPP data to determine a strategy for the best areas to focus on reskilling mothers who have been out of the workforce for 10+ years
+
